@@ -1,0 +1,4 @@
+name: ConfigFiles
+version: ${project.version}
+main: org.waqe.pl.configfiles.ConfigFiles
+api-version: 1.13

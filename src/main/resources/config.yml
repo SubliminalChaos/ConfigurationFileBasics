@@ -1,0 +1,12 @@
+enabled: true
+banned-words:
+  - cat
+  - worm
+  - rick
+#enabled: true
+#  banned-words:
+#    - cat
+#    - worm
+#    - rick
+#  incidents:
+#    790e7efc-444d-3889-9598-4c88287db854: 1
